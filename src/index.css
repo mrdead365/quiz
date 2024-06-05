@@ -1,0 +1,43 @@
+
+
+.quiz-app{
+  font-family: fantasy;
+}
+
+.question-text{
+font-size: 40px;
+margin: 20px 0;
+
+}
+
+.answer-section{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  
+}
+
+.answer-btn{
+ width: 50%;
+ height: 40px;
+ font-size: 18px;
+ transition: all 2s ease-in-out;
+}
+
+
+
+.answer-btn:hover{
+background-color: aquamarine;
+}
+
+.text{
+  font-size: 40px;
+}
+
+.text1{
+  font-size: 50px;
+  color: rgb(250, 137, 7);
+}
